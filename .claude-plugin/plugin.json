@@ -1,0 +1,9 @@
+{
+  "name": "canvas_chat",
+  "version": "0.1.0",
+  "description": "Visual canvas with a chatbox that talks to Claude Code using your existing login. Draw, paste screenshots, upload images, sketch mind maps, then select anything and send it to Claude as context.",
+  "author": {
+    "name": "canvas_chat"
+  },
+  "keywords": ["canvas", "visual", "chat", "konva"]
+}

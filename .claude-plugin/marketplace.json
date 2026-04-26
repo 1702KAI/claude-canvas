@@ -1,0 +1,13 @@
+{
+  "name": "canvas_chat_local",
+  "owner": {
+    "name": "local"
+  },
+  "plugins": [
+    {
+      "name": "canvas_chat",
+      "source": ".",
+      "description": "Visual canvas with a chatbox that talks to Claude Code using your existing login."
+    }
+  ]
+}
